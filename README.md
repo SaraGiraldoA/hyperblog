@@ -1,2 +1,3 @@
 # hyperblog
-hola esto es git
+Hola esto es git :tw-1f49e: 
+>Este curso es muy interesante 
